@@ -1,0 +1,7 @@
+/Win32/Release/*.obj
+/Win32/Release/*.log
+/Win32/Release/*.pdb
+/Win32/Release/lua.tlog/*.tlog
+/Win32/Release/lua.tlog/*.lastbuildstate
+/Win32/Release/*.txt
+/*.user
